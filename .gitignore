@@ -1,0 +1,7 @@
+.env
+build
+coverage.json
+coverage/
+node_modules
+yarn-error.log
+
